@@ -82,7 +82,7 @@ DATABASES = {
         'USER': 'blctraining',
         'PASSWORD': '123456',
         'HOST': 'localhost',
-        'POST': '',
+        'PORT': '5432',
     }
 }
 
