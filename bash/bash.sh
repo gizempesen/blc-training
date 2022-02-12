@@ -28,3 +28,5 @@ if [[ -z "$string" ]]; then
 elif [[ -n "$string" ]]; then
   echo "String is not empty"
 fi
+
+
